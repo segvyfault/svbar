@@ -1,5 +1,5 @@
 # svbar
-memory efficient usage bar written for myself
+memory efficient usage bar written for myself  
 wrote this because fuck waybar/eww/quickshell for using 500mb of ram
 
 # Important
