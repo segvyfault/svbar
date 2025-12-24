@@ -1,0 +1,7 @@
+[package]
+name = "volume"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libpulse-binding = { version = "2.30.1", default-features = false, features = ["pa_v15"] }
